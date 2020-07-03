@@ -8,7 +8,7 @@ module.exports = {
 		},
 		urls: [
 			"https://www.danfil.cz/",
-			"https://www.danfil.cz/nausnice/dite/,
+			"https://www.danfil.cz/nausnice/dite/",
 			"https://www.danfil.cz/detske-nausnicky-danfil-srdicka-c2160-ze-zluteho-zlata-s-kaminky-white-zapinani-brizura-11147/",
 			"https://www.danfil.cz/konfigurator/",
 			"https://www.danfil.cz/konfigurator/detske-nausnicky-danfil-kyticky-c1945-ze-zluteho-zlata-s-kaminkem-white-zapinani-brizura-3621/",
